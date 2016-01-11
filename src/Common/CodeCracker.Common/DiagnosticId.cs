@@ -85,9 +85,10 @@
         ExtractClassToFile = 96,
         ChangeCountMethodToProperty = 98,
         PreferAnyToCountGreaterThanZero = 99,
+        ConversionToBodiedMethod = 104,
         AlwaysUseVarOnPrimitives = 105,
         NameOf_External = 108,
         InconsistentParameterDefaultValue = 110,
-        StringFormatArgs_ExtraArgs = 111,
+        StringFormatArgs_ExtraArgs = 111
     }
 }
